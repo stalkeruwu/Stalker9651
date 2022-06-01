@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="max-width:50%"src="https://static.wikia.nocookie.net/breakingbad/images/8/8b/MikeS5.jpg/revision/latest?cb=20120620015454">
+<img style="max-width:50%" src="https://static.wikia.nocookie.net/breakingbad/images/8/8b/MikeS5.jpg/revision/latest?cb=20120620015454">
 
 <!--
 **Stalker9651/Stalker9651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
