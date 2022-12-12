@@ -1,4 +1,5 @@
-
+Computer Science Student
+Currently learning: C#, MySQL, HTML, CSS, MySQL
 <!--
 **Stalker9651/Stalker9651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
